@@ -1,0 +1,48 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 20px;
+    max-width: 900px;
+}
+
+h1 {
+    color: #1E8449;
+    border-bottom: 3px solid #1E8449;
+    padding-bottom: 10px;
+}
+
+.stavba {
+    background-color: white;
+    color: #1E8449;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.stavba h2 {
+    margin-top: 0;
+}
+
+.lokacija {
+    background-color: #eaf5ee;
+    padding: 10px;
+    border-left: 4px solid #1E8449;
+    margin: 10px 0;
+}
+
+strong {
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+nav a {
+    color: #1E8449;
+}
